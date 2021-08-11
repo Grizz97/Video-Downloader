@@ -1,4 +1,5 @@
 import requests
+import os #you will need incase you want to store the vid in a specific folder/path
 from pytube import *
 
 print('''
